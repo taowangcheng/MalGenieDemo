@@ -4,5 +4,5 @@ spiral @ git+https://github.com/casics/spiral.git@0e75418cda7635f151fedff035b7b7
 scikit-learn==1.2.1
 contractions==0.1.73
 pyenchant==3.2.2
-
+seaborn==0.12.2
 
