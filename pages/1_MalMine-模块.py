@@ -7,10 +7,6 @@ import jsonlines
 import sys
 sys.path.append('represent/')
 import os
-os.system("wget https://codeload.github.com/rfk/pyenchant/tar.gz/v2.0.0")
-os.system("tar -zxvf v2.0.0")
-os.system("cd pyenchant-2.0.0/")
-os.system("python setup.py build")
 import random
 import re
 import enchant
