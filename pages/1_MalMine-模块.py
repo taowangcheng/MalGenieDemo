@@ -7,6 +7,7 @@ import jsonlines
 import sys
 sys.path.append('represent/')
 import os
+os.system("sudo apt install python-enchant")
 import random
 import re
 import enchant
