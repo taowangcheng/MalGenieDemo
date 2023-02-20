@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: spiral
+Version: 1.1.0
+Summary: SPlitters for IdentifieRs: A Library
+Home-page: https://github.com/casics/spiral
+Author: Michael Hucka <mhucka@caltech.edu>
+Author-email: casics-team@googlegroups.com
+License: GNU General Public License, version 3.0
+Keywords: program-analysis text-processing machine-learning
+Platform: any
+Requires-Python: >=3
+License-File: LICENSE
+
+Spiral (SPlitters for IdentifieRs: A Library) provides methods for splitting identifiers found in source code files.
+
